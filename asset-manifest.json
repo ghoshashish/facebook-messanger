@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/facebook-messanger/static/css/main.80ed8696.chunk.css",
+    "main.js": "/facebook-messanger/static/js/main.8dd92250.chunk.js",
+    "main.js.map": "/facebook-messanger/static/js/main.8dd92250.chunk.js.map",
+    "runtime-main.js": "/facebook-messanger/static/js/runtime-main.f8a964d6.js",
+    "runtime-main.js.map": "/facebook-messanger/static/js/runtime-main.f8a964d6.js.map",
+    "static/js/2.6f2a5126.chunk.js": "/facebook-messanger/static/js/2.6f2a5126.chunk.js",
+    "static/js/2.6f2a5126.chunk.js.map": "/facebook-messanger/static/js/2.6f2a5126.chunk.js.map",
+    "index.html": "/facebook-messanger/index.html",
+    "precache-manifest.ebe1f2af14bbb1e6db5f852ed9b496ae.js": "/facebook-messanger/precache-manifest.ebe1f2af14bbb1e6db5f852ed9b496ae.js",
+    "service-worker.js": "/facebook-messanger/service-worker.js",
+    "static/css/main.80ed8696.chunk.css.map": "/facebook-messanger/static/css/main.80ed8696.chunk.css.map",
+    "static/js/2.6f2a5126.chunk.js.LICENSE.txt": "/facebook-messanger/static/js/2.6f2a5126.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a964d6.js",
+    "static/js/2.6f2a5126.chunk.js",
+    "static/css/main.80ed8696.chunk.css",
+    "static/js/main.8dd92250.chunk.js"
+  ]
+}
